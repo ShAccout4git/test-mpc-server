@@ -33,3 +33,4 @@ msbuild.wrn
 
 appsettings.json
 plane-secret.txt
+.mcp.json
